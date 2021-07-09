@@ -1,0 +1,18 @@
+co/com/utest/proyectobase/userinterface/UtestPage.java
+ co.com.utest.proyectobase.userinterface.UtestPage
+co/com/utest/proyectobase/interations/Esperar.java
+ co.com.utest.proyectobase.interations.Esperar
+co/com/utest/proyectobase/userinterface/UtestRegistroPage.java
+ co.com.utest.proyectobase.userinterface.UtestRegistroPage
+co/com/utest/proyectobase/model/UtestData.java
+ co.com.utest.proyectobase.model.UtestData
+co/com/utest/proyectobase/questions/ValidaRegistro.java
+ co.com.utest.proyectobase.questions.ValidaRegistro
+co/com/utest/proyectobase/tasks/ProcesoRegistro2.java
+ co.com.utest.proyectobase.tasks.ProcesoRegistro2
+co/com/utest/proyectobase/userinterface/UtestRegistro2Page.java
+ co.com.utest.proyectobase.userinterface.UtestRegistro2Page
+co/com/utest/proyectobase/tasks/ProcesoRegistro.java
+ co.com.utest.proyectobase.tasks.ProcesoRegistro
+co/com/utest/proyectobase/tasks/OpenUp.java
+ co.com.utest.proyectobase.tasks.OpenUp
